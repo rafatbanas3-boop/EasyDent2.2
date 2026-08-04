@@ -19,6 +19,8 @@
 		<PackageReference Include="OpenCvSharp4" Version="4.13.0.20260627" />
 		<PackageReference Include="OpenCvSharp4.runtime.win" Version="4.13.0.20260627" />
 		<PackageReference Include="OpenCvSharp4.Windows" Version="4.13.0.20260627" />
+		<!-- Charting for .NET 6+/NET 8 WinForms -->
+		<PackageReference Include="WinForms.DataVisualization" Version="1.10.2" />
 	</ItemGroup>
 
 </Project>
